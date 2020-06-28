@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Volkan Kumbasar's Publications
 
-You can use the [editor on GitHub](https://github.com/kumbasar/info/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Also see [scholar](https://scholar.google.com/citations?user=IdRDaE4AAAAJ&hl=en)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Journal Articles
 
-### Markdown
+1. [**V. Kumbasar**, O. Kucur, "ICI reduction in OFDM systems by using improved sinc power pulse"](https://www.sciencedirect.com/science/article/pii/S105120040700036X)
+2. [**V. Kumbasar**, O. Kucur, "Better Wavelet Packet Tree Structures for PAPR Reduction in WOFDM Systems"](https://www.sciencedirect.com/science/article/abs/pii/S1051200408000936)
+3. [**V. Kumbasar**, O. Kucur, A. Arif Ergin, E. Öztürk, "Optimization of wavelet based OFDM for multipath powerline channel by genetic algorithm"](https://onlinelibrary.wiley.com/doi/abs/10.1002/wcm.694)
+4. [**V. Kumbasar**, O. Kucur, "Better wavelet packet tree based OFDM for multipath powerline channel"](https://www.sciencedirect.com/science/article/abs/pii/S004579060900055X)
+5. [**V. Kumbasar**, O. Kucur, "Performance Comparison of Wavelet based and Conventional OFDM Systems in Multipath Rayleigh Fading Channels"](https://www.sciencedirect.com/science/article/abs/pii/S1051200412000383)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Conference Proceedings
 
-```markdown
-Syntax highlighted code block
+1. [**V. Kumbasar**, O. Kucur, "Searching better wavelet packet tree for ISI and ICI reduction in WOFDM"](https://ieeexplore.ieee.org/abstract/document/5068976)
 
-# Header 1
-## Header 2
-### Header 3
+## National Proceedings
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kumbasar/info/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [**V. Kumbasar**, O. Kucur, "Pulse Shaping for ICI Reduction in OFDM Systems with Carrier Frequency Offset"](https://ieeexplore.ieee.org/abstract/document/4298629)
+2. [O. Kucur, S. Dilek, **V. Kumbasar**, M. Doğan,"Performance of Multi-Processing Gain CDMA for Deterministic Spreading Sequences"](https://www.infona.pl/resource/bwmeta1.element.ieee-art-000001659745)
