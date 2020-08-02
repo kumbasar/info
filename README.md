@@ -2,6 +2,8 @@
 
 ![Euler](https://projecteuler.net/profile/vkumbasar.png)
 
+[**in**](https://www.linkedin.com/in/vkumbasar)
+
 ## Papers
 
 Also see [scholar](https://scholar.google.com/citations?user=IdRDaE4AAAAJ&hl=en)
